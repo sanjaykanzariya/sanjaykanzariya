@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjaykanzariya
 - 👀 I’m interested in Machine Learning and Data Science. I also like to do coding in Python.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 🌱 I’m currently learning Machine Learning, AWS/Azure Cloud Computing, and DevOps.
+- 💞️ I’m looking to collaborate on Machine Learning, DevOps projects.
 - 📫 You can reach out to me via sanjaykanzariya1287@gmail.com
 
 <!---
